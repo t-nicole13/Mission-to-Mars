@@ -11,7 +11,7 @@ Write a script to gather data about the mission to mars and display it in a cent
 
 ## Resources
 ### 
-Tools/Languages: Flask 1.1.2, Python 3.9.7, MongoDB 5.0.6, HTML5, CSS3, Bootstrap, BeautifulSoup 4.10.0, Splinter 0.17.0, Visual Studio Code 1.64.2, Jupyter Notebook 6.4.5
+Tools/Languages: Flask 1.1.2, Python 3.9.7, MongoDB 5.0.6, HTML5, CSS3, Bootstrap, BeautifulSoup 4.10.0, Splinter 0.17.0, Visual Studio Code 1.64.2, Jupyter Notebook 6.4.5, HTML5, Bootstrap 3
 
 Site(s): https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest
 
