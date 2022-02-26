@@ -1,13 +1,13 @@
 # Mission-to-Mars
 
 ## Objective
-Write a script to gather data about the mission to mars and display it in a central location.  Build a web app to that will scrape new data with the click of a button.
+Write a script to gather data about the mission to mars and display it in a central location.  Build a web app that will scrape new data with the click of a button.
 
 ### Tasks
 - Automate a web browser using Splinter and perform a web scrape with Beautiful Soup.
 - Store data in a MongoDB.
 - Create a web app using Flask to display data.
-- Create a portfolio
+- Adjust web app to include all 4 hemisphere images.
 
 ## Resources
 ### 
