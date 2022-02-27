@@ -1,7 +1,7 @@
 # Mission-to-Mars
 
 ## Objective
-Write a script to gather data about the mission to mars and display it in a central location.  Build a web app that will scrape new data with the click of a button.
+- Build a web app that can scrape data with the click of a button and display the app on my own web page.
 
 ### Tasks
 - Automate a web browser using Splinter and perform a web scrape with Beautiful Soup.
